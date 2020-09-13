@@ -9,7 +9,7 @@ There are 3 scripts. get_data.py takes a screenshot when you press a key and sav
 Of course, there are many better methods for such a problem but this project only made for educational purposes.
 
 # Pretrained Model
-you can download **[HERE](https://drive.google.com/file/d/13INeRNWU0TYVM9kXvaPs8PDTdTiR3D0K/view?usp=sharing/)** It's trained with about 2500 images. 
+you can download **[HERE](https://drive.google.com/file/d/13INeRNWU0TYVM9kXvaPs8PDTdTiR3D0K/view?usp=sharing/)** It's trained with ~2500 images. 
 
 
 # Dependencies
